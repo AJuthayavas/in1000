@@ -1,0 +1,12 @@
+1]
+Innkapsling vil si at alle endringer av et objekts instansvariabel skal skje kun ved hjelp av klassens metoder, som for eksempel grensesnitt. Det vil si at vi brukere får en oversiktlig interface, mens all innholdet skjules for brukerene. Altså informasjon kan ikke manipuleres, og misbrukes. Derfor er det svært nyttig. 
+
+
+2]
+Grensesnittet til en klasse er først og fremst det som er tilgjengelig i selve klassen. La oss ta et eksempel med en objekt(klasse). vi kan ha bilklasse, mc-klasse, båtklasse osv. Alle disse klassene har en ting til felles, og det er at de alle har en motor.  
+
+Implementasjon av en klasse derimot, er en klasse som kan ha attributter, operasjoner og metoder. Kort fortalt, en implementeringsklasse definerer den fysiske implementeringen av objekter fra en klasse. 
+
+
+3]
+En instansmetode likner litt på en parameter, men det er ikke helt det samme. Sammenliknet med en vanlig funksjon, Må man ha med self. Du bruker self for å tilgang til hvilken som helst data som ligger i klassen din. Dette kan man ikke med "vanlige" funksjoner i Python. Dermed skiller instansmetoder seg fra vanlige funksjoner/prosedyrer i Python.  
