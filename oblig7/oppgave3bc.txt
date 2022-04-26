@@ -1,0 +1,12 @@
+3b)
+
+Årsaken til at det er bedre å velge en liste fremfor ordbok, er at i lista er det objekter. 
+Og vi vil vise til objekter. Så når vi velger objektet, så vil vi kunne få opp artisten og tittelen. 
+Listen peker på begge objektene, mens har vi en ordbok derimot, så gjør den ikke helt det samme.
+Ordbøker peker på enten i vår tilfelle, artist eller tittel. Men vi trenger begge to samtidig. 
+
+3c)
+Man kan putte filnavnet som parameter, men det er ikke en fordel. Fordi hvis man gjør dette i en 
+metode så kan man legge til flere sanger. Dette er så å si mulig i konstruktøren også, men da må man 
+skrive hele objektet på nytt, og det blir tungvint. Altså at du må skrive ut objektet på nytt med
+samme filen.
